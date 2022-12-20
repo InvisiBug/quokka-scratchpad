@@ -1,0 +1,12 @@
+{
+  "name": "quokka-scratchpad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/InvisiBug/quokka-scratchpad.git",
+  "author": "Matt Kavanagh <matthew.kavanagh@skybettingandgaming.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^2.8.1",
+    "ramda": "^0.28.0"
+  }
+}
