@@ -5,8 +5,18 @@
   "repository": "https://github.com/InvisiBug/quokka-scratchpad.git",
   "author": "Matt Kavanagh <matthew.kavanagh@skybettingandgaming.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon --exec \"ts-node \" ./src/index.ts"
+  },
   "dependencies": {
+    "@tsconfig/recommended": "^1.0.8",
+    "graphql": "^16.9.0",
+    "graphql-request": "5.1.0",
+    "nodemon": "^3.1.7",
     "prettier": "^2.8.1",
-    "ramda": "^0.28.0"
+    "ramda": "^0.28.0",
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.6.3"
   }
 }
