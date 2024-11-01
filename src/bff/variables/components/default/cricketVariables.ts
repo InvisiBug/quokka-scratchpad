@@ -1,4 +1,4 @@
-export const cricketVariables = {
+export const defaultCricketVariables = {
   urn: "ppb:tbd:view:sport:4",
   numberOfFilledCardsInCardGroup: 2,
   numberOfFilledCardsInView: 3,

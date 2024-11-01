@@ -1,10 +1,10 @@
-export const tennisVariables = {
-  urn: "ppb:tbd:view:sport:2",
+export const defaultHorseRacingVariables = {
+  urn: "ppb:tbd:view:sport:7",
   numberOfFilledCardsInCardGroup: 2,
   numberOfFilledCardsInView: 3,
-  withBottomBar: false,
-  withLeftSidebar: false,
-  withRegulatoryData: false,
+  withBottomBar: true,
+  withLeftSidebar: true,
+  withRegulatoryData: true,
   withPageInfo: true,
   preferences: {
     marketTab: "SPORTSBOOK",

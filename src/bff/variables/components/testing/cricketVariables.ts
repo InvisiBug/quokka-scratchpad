@@ -1,7 +1,10 @@
-export const greyhoundVariables = {
-  urn: "ppb:tbd:view:sport:4339",
+import { generateStandardCardOptions } from "../../../utils";
+
+export const testingCricketVariables = {
+  urn: "ppb:tbd:view:sport:4",
   numberOfFilledCardsInCardGroup: 2,
   numberOfFilledCardsInView: 3,
+  ...generateStandardCardOptions(),
   withBottomBar: false,
   withLeftSidebar: false,
   withRegulatoryData: false,

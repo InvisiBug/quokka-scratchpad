@@ -1,0 +1,1154 @@
+{
+  "football": [
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 9,
+        "numberOfCardsInAllMarketsView": 2,
+        "numberOfCardsInCompetitionView": 3,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 5,
+        "numberOfCardsInGamingSegmentationView": 6,
+        "numberOfCardsInGamingView": 7,
+        "numberOfCardsInGenericView": 1,
+        "numberOfCardsInImsPromotionView": 1,
+        "numberOfCardsInNotFoundView": 3,
+        "numberOfCardsInPromotionsView": 9,
+        "numberOfCardsInRaceView": 8,
+        "numberOfCardsInSportView": 10
+      },
+      "responseTime": 4063,
+      "contentLength": 314
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 6,
+        "numberOfCardsInAllMarketsView": 10,
+        "numberOfCardsInCompetitionView": 7,
+        "numberOfCardsInEventView": 1,
+        "numberOfCardsInGamingCategoryView": 5,
+        "numberOfCardsInGamingSegmentationView": 5,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 10,
+        "numberOfCardsInImsPromotionView": 2,
+        "numberOfCardsInNotFoundView": 6,
+        "numberOfCardsInPromotionsView": 9,
+        "numberOfCardsInRaceView": 7,
+        "numberOfCardsInSportView": 3
+      },
+      "responseTime": 2013,
+      "contentLength": 314
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 4,
+        "numberOfCardsInAllMarketsView": 1,
+        "numberOfCardsInCompetitionView": 4,
+        "numberOfCardsInEventView": 5,
+        "numberOfCardsInGamingCategoryView": 9,
+        "numberOfCardsInGamingSegmentationView": 9,
+        "numberOfCardsInGamingView": 1,
+        "numberOfCardsInGenericView": 8,
+        "numberOfCardsInImsPromotionView": 4,
+        "numberOfCardsInNotFoundView": 6,
+        "numberOfCardsInPromotionsView": 7,
+        "numberOfCardsInRaceView": 3,
+        "numberOfCardsInSportView": 2
+      },
+      "responseTime": 2330,
+      "contentLength": 11336
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 8,
+        "numberOfCardsInAllMarketsView": 8,
+        "numberOfCardsInCompetitionView": 2,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 5,
+        "numberOfCardsInGamingSegmentationView": 10,
+        "numberOfCardsInGamingView": 1,
+        "numberOfCardsInGenericView": 1,
+        "numberOfCardsInImsPromotionView": 2,
+        "numberOfCardsInNotFoundView": 8,
+        "numberOfCardsInPromotionsView": 7,
+        "numberOfCardsInRaceView": 8,
+        "numberOfCardsInSportView": 5
+      },
+      "responseTime": 2164,
+      "contentLength": 17657
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 4,
+        "numberOfCardsInAllMarketsView": 10,
+        "numberOfCardsInCompetitionView": 6,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 2,
+        "numberOfCardsInGamingSegmentationView": 10,
+        "numberOfCardsInGamingView": 2,
+        "numberOfCardsInGenericView": 6,
+        "numberOfCardsInImsPromotionView": 1,
+        "numberOfCardsInNotFoundView": 7,
+        "numberOfCardsInPromotionsView": 8,
+        "numberOfCardsInRaceView": 2,
+        "numberOfCardsInSportView": 2
+      },
+      "responseTime": 259,
+      "contentLength": 11336
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 4,
+        "numberOfCardsInAllMarketsView": 1,
+        "numberOfCardsInCompetitionView": 3,
+        "numberOfCardsInEventView": 5,
+        "numberOfCardsInGamingCategoryView": 2,
+        "numberOfCardsInGamingSegmentationView": 2,
+        "numberOfCardsInGamingView": 1,
+        "numberOfCardsInGenericView": 5,
+        "numberOfCardsInImsPromotionView": 6,
+        "numberOfCardsInNotFoundView": 3,
+        "numberOfCardsInPromotionsView": 4,
+        "numberOfCardsInRaceView": 4,
+        "numberOfCardsInSportView": 4
+      },
+      "responseTime": 807,
+      "contentLength": 17525
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 6,
+        "numberOfCardsInAllMarketsView": 8,
+        "numberOfCardsInCompetitionView": 5,
+        "numberOfCardsInEventView": 5,
+        "numberOfCardsInGamingCategoryView": 6,
+        "numberOfCardsInGamingSegmentationView": 9,
+        "numberOfCardsInGamingView": 4,
+        "numberOfCardsInGenericView": 9,
+        "numberOfCardsInImsPromotionView": 10,
+        "numberOfCardsInNotFoundView": 5,
+        "numberOfCardsInPromotionsView": 8,
+        "numberOfCardsInRaceView": 5,
+        "numberOfCardsInSportView": 8
+      },
+      "responseTime": 2056,
+      "contentLength": 24781
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 7,
+        "numberOfCardsInAllMarketsView": 7,
+        "numberOfCardsInCompetitionView": 2,
+        "numberOfCardsInEventView": 9,
+        "numberOfCardsInGamingCategoryView": 3,
+        "numberOfCardsInGamingSegmentationView": 4,
+        "numberOfCardsInGamingView": 7,
+        "numberOfCardsInGenericView": 3,
+        "numberOfCardsInImsPromotionView": 5,
+        "numberOfCardsInNotFoundView": 6,
+        "numberOfCardsInPromotionsView": 9,
+        "numberOfCardsInRaceView": 8,
+        "numberOfCardsInSportView": 1
+      },
+      "responseTime": 2071,
+      "contentLength": 11102
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 1,
+        "numberOfCardsInAllMarketsView": 8,
+        "numberOfCardsInCompetitionView": 5,
+        "numberOfCardsInEventView": 4,
+        "numberOfCardsInGamingCategoryView": 5,
+        "numberOfCardsInGamingSegmentationView": 3,
+        "numberOfCardsInGamingView": 9,
+        "numberOfCardsInGenericView": 7,
+        "numberOfCardsInImsPromotionView": 9,
+        "numberOfCardsInNotFoundView": 1,
+        "numberOfCardsInPromotionsView": 2,
+        "numberOfCardsInRaceView": 8,
+        "numberOfCardsInSportView": 6
+      },
+      "responseTime": 305,
+      "contentLength": 17788
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 1,
+        "numberOfCardsInAllMarketsView": 6,
+        "numberOfCardsInCompetitionView": 6,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 7,
+        "numberOfCardsInGamingSegmentationView": 10,
+        "numberOfCardsInGamingView": 3,
+        "numberOfCardsInGenericView": 10,
+        "numberOfCardsInImsPromotionView": 9,
+        "numberOfCardsInNotFoundView": 1,
+        "numberOfCardsInPromotionsView": 1,
+        "numberOfCardsInRaceView": 10,
+        "numberOfCardsInSportView": 8
+      },
+      "responseTime": 376,
+      "contentLength": 30145
+    }
+  ],
+  "horseRacing": [
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 2,
+        "numberOfCardsInAllMarketsView": 6,
+        "numberOfCardsInCompetitionView": 10,
+        "numberOfCardsInEventView": 3,
+        "numberOfCardsInGamingCategoryView": 4,
+        "numberOfCardsInGamingSegmentationView": 8,
+        "numberOfCardsInGamingView": 5,
+        "numberOfCardsInGenericView": 8,
+        "numberOfCardsInImsPromotionView": 4,
+        "numberOfCardsInNotFoundView": 9,
+        "numberOfCardsInPromotionsView": 1,
+        "numberOfCardsInRaceView": 7,
+        "numberOfCardsInSportView": 6
+      },
+      "responseTime": 287,
+      "contentLength": 17788
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 3,
+        "numberOfCardsInAllMarketsView": 7,
+        "numberOfCardsInCompetitionView": 8,
+        "numberOfCardsInEventView": 2,
+        "numberOfCardsInGamingCategoryView": 5,
+        "numberOfCardsInGamingSegmentationView": 9,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 10,
+        "numberOfCardsInImsPromotionView": 5,
+        "numberOfCardsInNotFoundView": 1,
+        "numberOfCardsInPromotionsView": 6,
+        "numberOfCardsInRaceView": 7,
+        "numberOfCardsInSportView": 10
+      },
+      "responseTime": 351,
+      "contentLength": 30145
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 2,
+        "numberOfCardsInAllMarketsView": 2,
+        "numberOfCardsInCompetitionView": 5,
+        "numberOfCardsInEventView": 8,
+        "numberOfCardsInGamingCategoryView": 10,
+        "numberOfCardsInGamingSegmentationView": 6,
+        "numberOfCardsInGamingView": 7,
+        "numberOfCardsInGenericView": 1,
+        "numberOfCardsInImsPromotionView": 1,
+        "numberOfCardsInNotFoundView": 7,
+        "numberOfCardsInPromotionsView": 1,
+        "numberOfCardsInRaceView": 1,
+        "numberOfCardsInSportView": 2
+      },
+      "responseTime": 209,
+      "contentLength": 11336
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 4,
+        "numberOfCardsInAllMarketsView": 7,
+        "numberOfCardsInCompetitionView": 9,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 1,
+        "numberOfCardsInGamingSegmentationView": 9,
+        "numberOfCardsInGamingView": 5,
+        "numberOfCardsInGenericView": 1,
+        "numberOfCardsInImsPromotionView": 5,
+        "numberOfCardsInNotFoundView": 6,
+        "numberOfCardsInPromotionsView": 7,
+        "numberOfCardsInRaceView": 8,
+        "numberOfCardsInSportView": 7
+      },
+      "responseTime": 1313,
+      "contentLength": 18540
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 5,
+        "numberOfCardsInAllMarketsView": 3,
+        "numberOfCardsInCompetitionView": 3,
+        "numberOfCardsInEventView": 5,
+        "numberOfCardsInGamingCategoryView": 4,
+        "numberOfCardsInGamingSegmentationView": 5,
+        "numberOfCardsInGamingView": 5,
+        "numberOfCardsInGenericView": 9,
+        "numberOfCardsInImsPromotionView": 10,
+        "numberOfCardsInNotFoundView": 6,
+        "numberOfCardsInPromotionsView": 6,
+        "numberOfCardsInRaceView": 10,
+        "numberOfCardsInSportView": 7
+      },
+      "responseTime": 300,
+      "contentLength": 18540
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 9,
+        "numberOfCardsInAllMarketsView": 1,
+        "numberOfCardsInCompetitionView": 4,
+        "numberOfCardsInEventView": 3,
+        "numberOfCardsInGamingCategoryView": 4,
+        "numberOfCardsInGamingSegmentationView": 2,
+        "numberOfCardsInGamingView": 5,
+        "numberOfCardsInGenericView": 4,
+        "numberOfCardsInImsPromotionView": 10,
+        "numberOfCardsInNotFoundView": 6,
+        "numberOfCardsInPromotionsView": 6,
+        "numberOfCardsInRaceView": 3,
+        "numberOfCardsInSportView": 9
+      },
+      "responseTime": 336,
+      "contentLength": 30145
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 4,
+        "numberOfCardsInAllMarketsView": 10,
+        "numberOfCardsInCompetitionView": 10,
+        "numberOfCardsInEventView": 9,
+        "numberOfCardsInGamingCategoryView": 5,
+        "numberOfCardsInGamingSegmentationView": 8,
+        "numberOfCardsInGamingView": 10,
+        "numberOfCardsInGenericView": 9,
+        "numberOfCardsInImsPromotionView": 1,
+        "numberOfCardsInNotFoundView": 7,
+        "numberOfCardsInPromotionsView": 9,
+        "numberOfCardsInRaceView": 7,
+        "numberOfCardsInSportView": 9
+      },
+      "responseTime": 2588,
+      "contentLength": 30145
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 5,
+        "numberOfCardsInAllMarketsView": 9,
+        "numberOfCardsInCompetitionView": 8,
+        "numberOfCardsInEventView": 6,
+        "numberOfCardsInGamingCategoryView": 10,
+        "numberOfCardsInGamingSegmentationView": 9,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 4,
+        "numberOfCardsInImsPromotionView": 2,
+        "numberOfCardsInNotFoundView": 5,
+        "numberOfCardsInPromotionsView": 5,
+        "numberOfCardsInRaceView": 6,
+        "numberOfCardsInSportView": 7
+      },
+      "responseTime": 276,
+      "contentLength": 18540
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 2,
+        "numberOfCardsInAllMarketsView": 4,
+        "numberOfCardsInCompetitionView": 7,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 5,
+        "numberOfCardsInGamingSegmentationView": 1,
+        "numberOfCardsInGamingView": 9,
+        "numberOfCardsInGenericView": 5,
+        "numberOfCardsInImsPromotionView": 7,
+        "numberOfCardsInNotFoundView": 4,
+        "numberOfCardsInPromotionsView": 4,
+        "numberOfCardsInRaceView": 10,
+        "numberOfCardsInSportView": 3
+      },
+      "responseTime": 212,
+      "contentLength": 16256
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 1,
+        "numberOfCardsInAllMarketsView": 1,
+        "numberOfCardsInCompetitionView": 10,
+        "numberOfCardsInEventView": 8,
+        "numberOfCardsInGamingCategoryView": 1,
+        "numberOfCardsInGamingSegmentationView": 7,
+        "numberOfCardsInGamingView": 2,
+        "numberOfCardsInGenericView": 3,
+        "numberOfCardsInImsPromotionView": 5,
+        "numberOfCardsInNotFoundView": 5,
+        "numberOfCardsInPromotionsView": 3,
+        "numberOfCardsInRaceView": 2,
+        "numberOfCardsInSportView": 8
+      },
+      "responseTime": 414,
+      "contentLength": 30145
+    }
+  ],
+  "greyhounds": [
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 6,
+        "numberOfCardsInAllMarketsView": 5,
+        "numberOfCardsInCompetitionView": 8,
+        "numberOfCardsInEventView": 7,
+        "numberOfCardsInGamingCategoryView": 6,
+        "numberOfCardsInGamingSegmentationView": 9,
+        "numberOfCardsInGamingView": 10,
+        "numberOfCardsInGenericView": 5,
+        "numberOfCardsInImsPromotionView": 6,
+        "numberOfCardsInNotFoundView": 8,
+        "numberOfCardsInPromotionsView": 8,
+        "numberOfCardsInRaceView": 2,
+        "numberOfCardsInSportView": 6
+      },
+      "responseTime": 3201,
+      "contentLength": 304
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 5,
+        "numberOfCardsInAllMarketsView": 6,
+        "numberOfCardsInCompetitionView": 7,
+        "numberOfCardsInEventView": 3,
+        "numberOfCardsInGamingCategoryView": 10,
+        "numberOfCardsInGamingSegmentationView": 9,
+        "numberOfCardsInGamingView": 9,
+        "numberOfCardsInGenericView": 5,
+        "numberOfCardsInImsPromotionView": 10,
+        "numberOfCardsInNotFoundView": 9,
+        "numberOfCardsInPromotionsView": 10,
+        "numberOfCardsInRaceView": 9,
+        "numberOfCardsInSportView": 2
+      },
+      "responseTime": 672,
+      "contentLength": 11336
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 10,
+        "numberOfCardsInAllMarketsView": 7,
+        "numberOfCardsInCompetitionView": 6,
+        "numberOfCardsInEventView": 6,
+        "numberOfCardsInGamingCategoryView": 9,
+        "numberOfCardsInGamingSegmentationView": 9,
+        "numberOfCardsInGamingView": 4,
+        "numberOfCardsInGenericView": 4,
+        "numberOfCardsInImsPromotionView": 8,
+        "numberOfCardsInNotFoundView": 7,
+        "numberOfCardsInPromotionsView": 3,
+        "numberOfCardsInRaceView": 5,
+        "numberOfCardsInSportView": 3
+      },
+      "responseTime": 309,
+      "contentLength": 16256
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 5,
+        "numberOfCardsInAllMarketsView": 5,
+        "numberOfCardsInCompetitionView": 9,
+        "numberOfCardsInEventView": 7,
+        "numberOfCardsInGamingCategoryView": 5,
+        "numberOfCardsInGamingSegmentationView": 3,
+        "numberOfCardsInGamingView": 7,
+        "numberOfCardsInGenericView": 5,
+        "numberOfCardsInImsPromotionView": 3,
+        "numberOfCardsInNotFoundView": 8,
+        "numberOfCardsInPromotionsView": 8,
+        "numberOfCardsInRaceView": 4,
+        "numberOfCardsInSportView": 1
+      },
+      "responseTime": 915,
+      "contentLength": 11102
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 9,
+        "numberOfCardsInAllMarketsView": 6,
+        "numberOfCardsInCompetitionView": 7,
+        "numberOfCardsInEventView": 6,
+        "numberOfCardsInGamingCategoryView": 5,
+        "numberOfCardsInGamingSegmentationView": 7,
+        "numberOfCardsInGamingView": 1,
+        "numberOfCardsInGenericView": 7,
+        "numberOfCardsInImsPromotionView": 9,
+        "numberOfCardsInNotFoundView": 6,
+        "numberOfCardsInPromotionsView": 3,
+        "numberOfCardsInRaceView": 3,
+        "numberOfCardsInSportView": 8
+      },
+      "responseTime": 2801,
+      "contentLength": 21840
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 3,
+        "numberOfCardsInAllMarketsView": 1,
+        "numberOfCardsInCompetitionView": 1,
+        "numberOfCardsInEventView": 5,
+        "numberOfCardsInGamingCategoryView": 6,
+        "numberOfCardsInGamingSegmentationView": 2,
+        "numberOfCardsInGamingView": 3,
+        "numberOfCardsInGenericView": 4,
+        "numberOfCardsInImsPromotionView": 4,
+        "numberOfCardsInNotFoundView": 4,
+        "numberOfCardsInPromotionsView": 3,
+        "numberOfCardsInRaceView": 1,
+        "numberOfCardsInSportView": 10
+      },
+      "responseTime": 428,
+      "contentLength": 30145
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 3,
+        "numberOfCardsInAllMarketsView": 6,
+        "numberOfCardsInCompetitionView": 2,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 6,
+        "numberOfCardsInGamingSegmentationView": 5,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 9,
+        "numberOfCardsInImsPromotionView": 8,
+        "numberOfCardsInNotFoundView": 5,
+        "numberOfCardsInPromotionsView": 6,
+        "numberOfCardsInRaceView": 7,
+        "numberOfCardsInSportView": 4
+      },
+      "responseTime": 273,
+      "contentLength": 17525
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 5,
+        "numberOfCardsInAllMarketsView": 5,
+        "numberOfCardsInCompetitionView": 3,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 8,
+        "numberOfCardsInGamingSegmentationView": 10,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 2,
+        "numberOfCardsInImsPromotionView": 4,
+        "numberOfCardsInNotFoundView": 2,
+        "numberOfCardsInPromotionsView": 9,
+        "numberOfCardsInRaceView": 2,
+        "numberOfCardsInSportView": 1
+      },
+      "responseTime": 494,
+      "contentLength": 11102
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 10,
+        "numberOfCardsInAllMarketsView": 9,
+        "numberOfCardsInCompetitionView": 5,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 8,
+        "numberOfCardsInGamingSegmentationView": 1,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 10,
+        "numberOfCardsInImsPromotionView": 4,
+        "numberOfCardsInNotFoundView": 7,
+        "numberOfCardsInPromotionsView": 8,
+        "numberOfCardsInRaceView": 9,
+        "numberOfCardsInSportView": 1
+      },
+      "responseTime": 179,
+      "contentLength": 11102
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 6,
+        "numberOfCardsInAllMarketsView": 2,
+        "numberOfCardsInCompetitionView": 7,
+        "numberOfCardsInEventView": 9,
+        "numberOfCardsInGamingCategoryView": 6,
+        "numberOfCardsInGamingSegmentationView": 6,
+        "numberOfCardsInGamingView": 2,
+        "numberOfCardsInGenericView": 8,
+        "numberOfCardsInImsPromotionView": 8,
+        "numberOfCardsInNotFoundView": 6,
+        "numberOfCardsInPromotionsView": 10,
+        "numberOfCardsInRaceView": 3,
+        "numberOfCardsInSportView": 3
+      },
+      "responseTime": 216,
+      "contentLength": 16256
+    }
+  ],
+  "tennis": [
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 6,
+        "numberOfCardsInAllMarketsView": 4,
+        "numberOfCardsInCompetitionView": 2,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 4,
+        "numberOfCardsInGamingSegmentationView": 5,
+        "numberOfCardsInGamingView": 9,
+        "numberOfCardsInGenericView": 10,
+        "numberOfCardsInImsPromotionView": 2,
+        "numberOfCardsInNotFoundView": 5,
+        "numberOfCardsInPromotionsView": 5,
+        "numberOfCardsInRaceView": 4,
+        "numberOfCardsInSportView": 8
+      },
+      "responseTime": 409,
+      "contentLength": 30145
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 6,
+        "numberOfCardsInAllMarketsView": 1,
+        "numberOfCardsInCompetitionView": 4,
+        "numberOfCardsInEventView": 6,
+        "numberOfCardsInGamingCategoryView": 9,
+        "numberOfCardsInGamingSegmentationView": 9,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 7,
+        "numberOfCardsInImsPromotionView": 6,
+        "numberOfCardsInNotFoundView": 7,
+        "numberOfCardsInPromotionsView": 4,
+        "numberOfCardsInRaceView": 5,
+        "numberOfCardsInSportView": 10
+      },
+      "responseTime": 294,
+      "contentLength": 30145
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 9,
+        "numberOfCardsInAllMarketsView": 6,
+        "numberOfCardsInCompetitionView": 5,
+        "numberOfCardsInEventView": 4,
+        "numberOfCardsInGamingCategoryView": 6,
+        "numberOfCardsInGamingSegmentationView": 3,
+        "numberOfCardsInGamingView": 1,
+        "numberOfCardsInGenericView": 10,
+        "numberOfCardsInImsPromotionView": 7,
+        "numberOfCardsInNotFoundView": 5,
+        "numberOfCardsInPromotionsView": 9,
+        "numberOfCardsInRaceView": 3,
+        "numberOfCardsInSportView": 4
+      },
+      "responseTime": 3670,
+      "contentLength": 21840
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 6,
+        "numberOfCardsInAllMarketsView": 4,
+        "numberOfCardsInCompetitionView": 4,
+        "numberOfCardsInEventView": 8,
+        "numberOfCardsInGamingCategoryView": 10,
+        "numberOfCardsInGamingSegmentationView": 8,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 4,
+        "numberOfCardsInImsPromotionView": 3,
+        "numberOfCardsInNotFoundView": 1,
+        "numberOfCardsInPromotionsView": 4,
+        "numberOfCardsInRaceView": 5,
+        "numberOfCardsInSportView": 8
+      },
+      "responseTime": 654,
+      "contentLength": 30145
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 6,
+        "numberOfCardsInAllMarketsView": 8,
+        "numberOfCardsInCompetitionView": 3,
+        "numberOfCardsInEventView": 5,
+        "numberOfCardsInGamingCategoryView": 7,
+        "numberOfCardsInGamingSegmentationView": 1,
+        "numberOfCardsInGamingView": 10,
+        "numberOfCardsInGenericView": 2,
+        "numberOfCardsInImsPromotionView": 9,
+        "numberOfCardsInNotFoundView": 8,
+        "numberOfCardsInPromotionsView": 1,
+        "numberOfCardsInRaceView": 8,
+        "numberOfCardsInSportView": 5
+      },
+      "responseTime": 287,
+      "contentLength": 17657
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 3,
+        "numberOfCardsInAllMarketsView": 3,
+        "numberOfCardsInCompetitionView": 6,
+        "numberOfCardsInEventView": 6,
+        "numberOfCardsInGamingCategoryView": 10,
+        "numberOfCardsInGamingSegmentationView": 5,
+        "numberOfCardsInGamingView": 6,
+        "numberOfCardsInGenericView": 1,
+        "numberOfCardsInImsPromotionView": 8,
+        "numberOfCardsInNotFoundView": 7,
+        "numberOfCardsInPromotionsView": 3,
+        "numberOfCardsInRaceView": 4,
+        "numberOfCardsInSportView": 5
+      },
+      "responseTime": 597,
+      "contentLength": 17657
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 7,
+        "numberOfCardsInAllMarketsView": 2,
+        "numberOfCardsInCompetitionView": 2,
+        "numberOfCardsInEventView": 1,
+        "numberOfCardsInGamingCategoryView": 9,
+        "numberOfCardsInGamingSegmentationView": 3,
+        "numberOfCardsInGamingView": 5,
+        "numberOfCardsInGenericView": 8,
+        "numberOfCardsInImsPromotionView": 1,
+        "numberOfCardsInNotFoundView": 8,
+        "numberOfCardsInPromotionsView": 3,
+        "numberOfCardsInRaceView": 3,
+        "numberOfCardsInSportView": 6
+      },
+      "responseTime": 302,
+      "contentLength": 17788
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 7,
+        "numberOfCardsInAllMarketsView": 2,
+        "numberOfCardsInCompetitionView": 6,
+        "numberOfCardsInEventView": 4,
+        "numberOfCardsInGamingCategoryView": 7,
+        "numberOfCardsInGamingSegmentationView": 8,
+        "numberOfCardsInGamingView": 4,
+        "numberOfCardsInGenericView": 1,
+        "numberOfCardsInImsPromotionView": 3,
+        "numberOfCardsInNotFoundView": 7,
+        "numberOfCardsInPromotionsView": 10,
+        "numberOfCardsInRaceView": 4,
+        "numberOfCardsInSportView": 1
+      },
+      "responseTime": 193,
+      "contentLength": 11102
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 7,
+        "numberOfCardsInAllMarketsView": 10,
+        "numberOfCardsInCompetitionView": 6,
+        "numberOfCardsInEventView": 2,
+        "numberOfCardsInGamingCategoryView": 1,
+        "numberOfCardsInGamingSegmentationView": 2,
+        "numberOfCardsInGamingView": 10,
+        "numberOfCardsInGenericView": 7,
+        "numberOfCardsInImsPromotionView": 10,
+        "numberOfCardsInNotFoundView": 4,
+        "numberOfCardsInPromotionsView": 4,
+        "numberOfCardsInRaceView": 5,
+        "numberOfCardsInSportView": 9
+      },
+      "responseTime": 575,
+      "contentLength": 30145
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 5,
+        "numberOfCardsInAllMarketsView": 8,
+        "numberOfCardsInCompetitionView": 8,
+        "numberOfCardsInEventView": 4,
+        "numberOfCardsInGamingCategoryView": 3,
+        "numberOfCardsInGamingSegmentationView": 4,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 3,
+        "numberOfCardsInImsPromotionView": 4,
+        "numberOfCardsInNotFoundView": 2,
+        "numberOfCardsInPromotionsView": 8,
+        "numberOfCardsInRaceView": 5,
+        "numberOfCardsInSportView": 6
+      },
+      "responseTime": 2340,
+      "contentLength": 17788
+    }
+  ],
+  "iceHockey": [
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 2,
+        "numberOfCardsInAllMarketsView": 10,
+        "numberOfCardsInCompetitionView": 4,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 4,
+        "numberOfCardsInGamingSegmentationView": 2,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 10,
+        "numberOfCardsInImsPromotionView": 6,
+        "numberOfCardsInNotFoundView": 9,
+        "numberOfCardsInPromotionsView": 1,
+        "numberOfCardsInRaceView": 3,
+        "numberOfCardsInSportView": 2
+      },
+      "responseTime": 492,
+      "contentLength": 11336
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 6,
+        "numberOfCardsInAllMarketsView": 7,
+        "numberOfCardsInCompetitionView": 1,
+        "numberOfCardsInEventView": 5,
+        "numberOfCardsInGamingCategoryView": 1,
+        "numberOfCardsInGamingSegmentationView": 8,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 3,
+        "numberOfCardsInImsPromotionView": 3,
+        "numberOfCardsInNotFoundView": 4,
+        "numberOfCardsInPromotionsView": 5,
+        "numberOfCardsInRaceView": 6,
+        "numberOfCardsInSportView": 6
+      },
+      "responseTime": 548,
+      "contentLength": 17788
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 7,
+        "numberOfCardsInAllMarketsView": 3,
+        "numberOfCardsInCompetitionView": 2,
+        "numberOfCardsInEventView": 2,
+        "numberOfCardsInGamingCategoryView": 1,
+        "numberOfCardsInGamingSegmentationView": 4,
+        "numberOfCardsInGamingView": 6,
+        "numberOfCardsInGenericView": 7,
+        "numberOfCardsInImsPromotionView": 3,
+        "numberOfCardsInNotFoundView": 3,
+        "numberOfCardsInPromotionsView": 3,
+        "numberOfCardsInRaceView": 6,
+        "numberOfCardsInSportView": 1
+      },
+      "responseTime": 192,
+      "contentLength": 11102
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 5,
+        "numberOfCardsInAllMarketsView": 7,
+        "numberOfCardsInCompetitionView": 3,
+        "numberOfCardsInEventView": 9,
+        "numberOfCardsInGamingCategoryView": 2,
+        "numberOfCardsInGamingSegmentationView": 4,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 4,
+        "numberOfCardsInImsPromotionView": 5,
+        "numberOfCardsInNotFoundView": 5,
+        "numberOfCardsInPromotionsView": 8,
+        "numberOfCardsInRaceView": 8,
+        "numberOfCardsInSportView": 7
+      },
+      "responseTime": 312,
+      "contentLength": 18540
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 7,
+        "numberOfCardsInAllMarketsView": 6,
+        "numberOfCardsInCompetitionView": 1,
+        "numberOfCardsInEventView": 9,
+        "numberOfCardsInGamingCategoryView": 2,
+        "numberOfCardsInGamingSegmentationView": 6,
+        "numberOfCardsInGamingView": 10,
+        "numberOfCardsInGenericView": 10,
+        "numberOfCardsInImsPromotionView": 2,
+        "numberOfCardsInNotFoundView": 7,
+        "numberOfCardsInPromotionsView": 2,
+        "numberOfCardsInRaceView": 5,
+        "numberOfCardsInSportView": 3
+      },
+      "responseTime": 218,
+      "contentLength": 16256
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 7,
+        "numberOfCardsInAllMarketsView": 10,
+        "numberOfCardsInCompetitionView": 1,
+        "numberOfCardsInEventView": 6,
+        "numberOfCardsInGamingCategoryView": 3,
+        "numberOfCardsInGamingSegmentationView": 6,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 8,
+        "numberOfCardsInImsPromotionView": 3,
+        "numberOfCardsInNotFoundView": 4,
+        "numberOfCardsInPromotionsView": 7,
+        "numberOfCardsInRaceView": 6,
+        "numberOfCardsInSportView": 8
+      },
+      "responseTime": 446,
+      "contentLength": 30145
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 2,
+        "numberOfCardsInAllMarketsView": 6,
+        "numberOfCardsInCompetitionView": 10,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 9,
+        "numberOfCardsInGamingSegmentationView": 10,
+        "numberOfCardsInGamingView": 4,
+        "numberOfCardsInGenericView": 1,
+        "numberOfCardsInImsPromotionView": 1,
+        "numberOfCardsInNotFoundView": 8,
+        "numberOfCardsInPromotionsView": 1,
+        "numberOfCardsInRaceView": 2,
+        "numberOfCardsInSportView": 2
+      },
+      "responseTime": 2372,
+      "contentLength": 298
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 3,
+        "numberOfCardsInAllMarketsView": 4,
+        "numberOfCardsInCompetitionView": 8,
+        "numberOfCardsInEventView": 6,
+        "numberOfCardsInGamingCategoryView": 7,
+        "numberOfCardsInGamingSegmentationView": 6,
+        "numberOfCardsInGamingView": 7,
+        "numberOfCardsInGenericView": 4,
+        "numberOfCardsInImsPromotionView": 10,
+        "numberOfCardsInNotFoundView": 3,
+        "numberOfCardsInPromotionsView": 4,
+        "numberOfCardsInRaceView": 9,
+        "numberOfCardsInSportView": 7
+      },
+      "responseTime": 519,
+      "contentLength": 18540
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 4,
+        "numberOfCardsInAllMarketsView": 7,
+        "numberOfCardsInCompetitionView": 6,
+        "numberOfCardsInEventView": 8,
+        "numberOfCardsInGamingCategoryView": 5,
+        "numberOfCardsInGamingSegmentationView": 2,
+        "numberOfCardsInGamingView": 7,
+        "numberOfCardsInGenericView": 9,
+        "numberOfCardsInImsPromotionView": 1,
+        "numberOfCardsInNotFoundView": 3,
+        "numberOfCardsInPromotionsView": 3,
+        "numberOfCardsInRaceView": 1,
+        "numberOfCardsInSportView": 2
+      },
+      "responseTime": 358,
+      "contentLength": 11336
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 10,
+        "numberOfCardsInAllMarketsView": 2,
+        "numberOfCardsInCompetitionView": 5,
+        "numberOfCardsInEventView": 7,
+        "numberOfCardsInGamingCategoryView": 3,
+        "numberOfCardsInGamingSegmentationView": 5,
+        "numberOfCardsInGamingView": 7,
+        "numberOfCardsInGenericView": 5,
+        "numberOfCardsInImsPromotionView": 3,
+        "numberOfCardsInNotFoundView": 4,
+        "numberOfCardsInPromotionsView": 6,
+        "numberOfCardsInRaceView": 8,
+        "numberOfCardsInSportView": 9
+      },
+      "responseTime": 554,
+      "contentLength": 30145
+    }
+  ],
+  "baseball": [
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 10,
+        "numberOfCardsInAllMarketsView": 1,
+        "numberOfCardsInCompetitionView": 9,
+        "numberOfCardsInEventView": 5,
+        "numberOfCardsInGamingCategoryView": 2,
+        "numberOfCardsInGamingSegmentationView": 3,
+        "numberOfCardsInGamingView": 2,
+        "numberOfCardsInGenericView": 8,
+        "numberOfCardsInImsPromotionView": 5,
+        "numberOfCardsInNotFoundView": 2,
+        "numberOfCardsInPromotionsView": 3,
+        "numberOfCardsInRaceView": 6,
+        "numberOfCardsInSportView": 5
+      },
+      "responseTime": 373,
+      "contentLength": 17657
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 10,
+        "numberOfCardsInAllMarketsView": 10,
+        "numberOfCardsInCompetitionView": 1,
+        "numberOfCardsInEventView": 9,
+        "numberOfCardsInGamingCategoryView": 9,
+        "numberOfCardsInGamingSegmentationView": 9,
+        "numberOfCardsInGamingView": 10,
+        "numberOfCardsInGenericView": 9,
+        "numberOfCardsInImsPromotionView": 1,
+        "numberOfCardsInNotFoundView": 9,
+        "numberOfCardsInPromotionsView": 7,
+        "numberOfCardsInRaceView": 5,
+        "numberOfCardsInSportView": 5
+      },
+      "responseTime": 201,
+      "contentLength": 17657
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 2,
+        "numberOfCardsInAllMarketsView": 8,
+        "numberOfCardsInCompetitionView": 10,
+        "numberOfCardsInEventView": 5,
+        "numberOfCardsInGamingCategoryView": 4,
+        "numberOfCardsInGamingSegmentationView": 4,
+        "numberOfCardsInGamingView": 8,
+        "numberOfCardsInGenericView": 10,
+        "numberOfCardsInImsPromotionView": 9,
+        "numberOfCardsInNotFoundView": 6,
+        "numberOfCardsInPromotionsView": 2,
+        "numberOfCardsInRaceView": 9,
+        "numberOfCardsInSportView": 5
+      },
+      "responseTime": 190,
+      "contentLength": 17657
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 5,
+        "numberOfCardsInAllMarketsView": 5,
+        "numberOfCardsInCompetitionView": 5,
+        "numberOfCardsInEventView": 8,
+        "numberOfCardsInGamingCategoryView": 3,
+        "numberOfCardsInGamingSegmentationView": 1,
+        "numberOfCardsInGamingView": 7,
+        "numberOfCardsInGenericView": 2,
+        "numberOfCardsInImsPromotionView": 9,
+        "numberOfCardsInNotFoundView": 5,
+        "numberOfCardsInPromotionsView": 3,
+        "numberOfCardsInRaceView": 10,
+        "numberOfCardsInSportView": 6
+      },
+      "responseTime": 193,
+      "contentLength": 17788
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 7,
+        "numberOfCardsInAllMarketsView": 2,
+        "numberOfCardsInCompetitionView": 8,
+        "numberOfCardsInEventView": 6,
+        "numberOfCardsInGamingCategoryView": 9,
+        "numberOfCardsInGamingSegmentationView": 6,
+        "numberOfCardsInGamingView": 3,
+        "numberOfCardsInGenericView": 9,
+        "numberOfCardsInImsPromotionView": 3,
+        "numberOfCardsInNotFoundView": 6,
+        "numberOfCardsInPromotionsView": 2,
+        "numberOfCardsInRaceView": 4,
+        "numberOfCardsInSportView": 6
+      },
+      "responseTime": 189,
+      "contentLength": 17788
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 5,
+        "numberOfCardsInAllMarketsView": 3,
+        "numberOfCardsInCompetitionView": 10,
+        "numberOfCardsInEventView": 7,
+        "numberOfCardsInGamingCategoryView": 10,
+        "numberOfCardsInGamingSegmentationView": 4,
+        "numberOfCardsInGamingView": 10,
+        "numberOfCardsInGenericView": 1,
+        "numberOfCardsInImsPromotionView": 10,
+        "numberOfCardsInNotFoundView": 10,
+        "numberOfCardsInPromotionsView": 10,
+        "numberOfCardsInRaceView": 5,
+        "numberOfCardsInSportView": 4
+      },
+      "responseTime": 192,
+      "contentLength": 17525
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 6,
+        "numberOfCardsInAllMarketsView": 9,
+        "numberOfCardsInCompetitionView": 4,
+        "numberOfCardsInEventView": 1,
+        "numberOfCardsInGamingCategoryView": 3,
+        "numberOfCardsInGamingSegmentationView": 7,
+        "numberOfCardsInGamingView": 9,
+        "numberOfCardsInGenericView": 7,
+        "numberOfCardsInImsPromotionView": 8,
+        "numberOfCardsInNotFoundView": 8,
+        "numberOfCardsInPromotionsView": 3,
+        "numberOfCardsInRaceView": 5,
+        "numberOfCardsInSportView": 5
+      },
+      "responseTime": 191,
+      "contentLength": 17657
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 8,
+        "numberOfCardsInAllMarketsView": 5,
+        "numberOfCardsInCompetitionView": 3,
+        "numberOfCardsInEventView": 4,
+        "numberOfCardsInGamingCategoryView": 4,
+        "numberOfCardsInGamingSegmentationView": 6,
+        "numberOfCardsInGamingView": 7,
+        "numberOfCardsInGenericView": 3,
+        "numberOfCardsInImsPromotionView": 1,
+        "numberOfCardsInNotFoundView": 2,
+        "numberOfCardsInPromotionsView": 4,
+        "numberOfCardsInRaceView": 1,
+        "numberOfCardsInSportView": 7
+      },
+      "responseTime": 195,
+      "contentLength": 18540
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 2,
+        "numberOfCardsInAllMarketsView": 9,
+        "numberOfCardsInCompetitionView": 4,
+        "numberOfCardsInEventView": 3,
+        "numberOfCardsInGamingCategoryView": 10,
+        "numberOfCardsInGamingSegmentationView": 6,
+        "numberOfCardsInGamingView": 4,
+        "numberOfCardsInGenericView": 5,
+        "numberOfCardsInImsPromotionView": 5,
+        "numberOfCardsInNotFoundView": 5,
+        "numberOfCardsInPromotionsView": 6,
+        "numberOfCardsInRaceView": 1,
+        "numberOfCardsInSportView": 10
+      },
+      "responseTime": 203,
+      "contentLength": 30145
+    },
+    {
+      "cardOptions": {
+        "numberOfCardsInAllCompetitionsView": 6,
+        "numberOfCardsInAllMarketsView": 5,
+        "numberOfCardsInCompetitionView": 6,
+        "numberOfCardsInEventView": 10,
+        "numberOfCardsInGamingCategoryView": 5,
+        "numberOfCardsInGamingSegmentationView": 9,
+        "numberOfCardsInGamingView": 1,
+        "numberOfCardsInGenericView": 7,
+        "numberOfCardsInImsPromotionView": 1,
+        "numberOfCardsInNotFoundView": 4,
+        "numberOfCardsInPromotionsView": 4,
+        "numberOfCardsInRaceView": 8,
+        "numberOfCardsInSportView": 5
+      },
+      "responseTime": 186,
+      "contentLength": 17657
+    }
+  ]
+}

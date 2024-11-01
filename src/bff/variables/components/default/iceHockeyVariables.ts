@@ -1,10 +1,10 @@
-export const footballVariables = {
-  urn: "ppb:tbd:view:sport:1",
+export const defaultIceHockeyVariables = {
+  urn: "ppb:tbd:view:sport:7524",
   numberOfFilledCardsInCardGroup: 2,
   numberOfFilledCardsInView: 3,
-  withBottomBar: true,
-  withLeftSidebar: true,
-  withRegulatoryData: true,
+  withBottomBar: false,
+  withLeftSidebar: false,
+  withRegulatoryData: false,
   withPageInfo: true,
   preferences: {
     marketTab: "SPORTSBOOK",
@@ -16,7 +16,7 @@ export const footballVariables = {
   experiments: [
     {
       id: "exp-cms-bf-football-price-experiment",
-      variant: "football-price-experiment-v1",
+      variant: "control",
     },
   ],
 };

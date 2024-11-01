@@ -1,5 +1,5 @@
-export const iceHockeyVariables = {
-  urn: "ppb:tbd:view:sport:7524",
+export const defaultTennisVariables = {
+  urn: "ppb:tbd:view:sport:2",
   numberOfFilledCardsInCardGroup: 2,
   numberOfFilledCardsInView: 3,
   withBottomBar: false,

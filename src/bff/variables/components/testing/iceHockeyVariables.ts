@@ -1,7 +1,10 @@
-export const baseballVariables = {
-  urn: "ppb:tbd:view:sport:7511",
+import { generateStandardCardOptions } from "../../../utils";
+
+export const testingIceHockeyVariables = {
+  urn: "ppb:tbd:view:sport:7524",
   numberOfFilledCardsInCardGroup: 2,
   numberOfFilledCardsInView: 3,
+  ...generateStandardCardOptions(),
   withBottomBar: false,
   withLeftSidebar: false,
   withRegulatoryData: false,

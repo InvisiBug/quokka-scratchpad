@@ -1,5 +1,5 @@
-export const horseRacingVariables = {
-  urn: "ppb:tbd:view:sport:7",
+export const defaultFootballVariables = {
+  urn: "ppb:tbd:view:sport:1",
   numberOfFilledCardsInCardGroup: 2,
   numberOfFilledCardsInView: 3,
   withBottomBar: true,
@@ -16,7 +16,7 @@ export const horseRacingVariables = {
   experiments: [
     {
       id: "exp-cms-bf-football-price-experiment",
-      variant: "control",
+      variant: "football-price-experiment-v1",
     },
   ],
 };
