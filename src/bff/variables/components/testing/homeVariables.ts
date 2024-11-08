@@ -1,9 +1,8 @@
 import { generateStandardCardOptions } from "../../../utils";
 
-export const BaseballVariables = {
-  urn: "ppb:tbd:view:sport:7511",
+export const homeVariables = {
+  urn: "ppb:tbd:view:generic:home",
   numberOfFilledCardsInCardGroup: 2,
-  numberOfFilledCardsInView: 3,
   ...generateStandardCardOptions(),
   withBottomBar: false,
   withLeftSidebar: false,
@@ -18,7 +17,7 @@ export const BaseballVariables = {
   productExclusions: [],
   experiments: [
     {
-      id: "exp-cms-bf-football-price-experiment",
+      id: "experiment-diogo",
       variant: "control",
     },
   ],

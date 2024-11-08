@@ -1,37 +1,18 @@
 // * Default
-import { defaultHorseRacingVariables } from "./components/default/horseRacing";
-import { defaultFootballVariables } from "./components/default/footballVariables";
-import { defaultGreyhoundVariables } from "./components/default/greyhoundVariables";
-import { defaultTennisVariables } from "./components/default/tennisVariables";
-import { defaultCricketVariables } from "./components/default/cricketVariables";
-import { defaultIceHockeyVariables } from "./components/default/iceHockeyVariables";
-import { defaultBaseballVariables } from "./components/default/baseballVariables";
+export { defaultHorseRacingVariables } from "./components/default/horseRacing";
+export { defaultFootballVariables } from "./components/default/footballVariables";
+export { defaultGreyhoundVariables } from "./components/default/greyhoundVariables";
+export { defaultTennisVariables } from "./components/default/tennisVariables";
+export { defaultCricketVariables } from "./components/default/cricketVariables";
+export { defaultIceHockeyVariables } from "./components/default/iceHockeyVariables";
+export { defaultBaseballVariables } from "./components/default/baseballVariables";
 
 //* Testing
-import { testingBaseballVariables } from "./components/testing/baseballVariables";
-import { testingCricketVariables } from "./components/testing/cricketVariables";
-import { testingFootballVariables } from "./components/testing/footballVariables";
-import { testingGreyhoundVariables } from "./components/testing/greyhoundVariables";
-import { testingHorseRacingVariables } from "./components/testing/horseRacingVariables";
-import { testingIceHockeyVariables } from "./components/testing/iceHockeyVariables";
-import { testingTennisVariables } from "./components/testing/tennisVariables";
-
-export {
-  //* Default
-  defaultHorseRacingVariables,
-  defaultFootballVariables,
-  defaultGreyhoundVariables,
-  defaultTennisVariables,
-  defaultCricketVariables,
-  defaultIceHockeyVariables,
-  defaultBaseballVariables,
-
-  //* Testing
-  testingFootballVariables,
-  testingHorseRacingVariables,
-  testingBaseballVariables,
-  testingCricketVariables,
-  testingGreyhoundVariables,
-  testingIceHockeyVariables,
-  testingTennisVariables,
-};
+export { BaseballVariables } from "./components/testing/baseballVariables";
+export { CricketVariables } from "./components/testing/cricketVariables";
+export { FootballVariables } from "./components/testing/footballVariables";
+export { GreyhoundVariables } from "./components/testing/greyhoundVariables";
+export { HorseRacingVariables } from "./components/testing/horseRacingVariables";
+export { IceHockeyVariables } from "./components/testing/iceHockeyVariables";
+export { TennisVariables } from "./components/testing/tennisVariables";
+export { homeVariables } from "./components/testing/homeVariables";

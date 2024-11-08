@@ -1,6 +1,6 @@
 import { generateStandardCardOptions } from "../../../utils";
 
-export const testingGreyhoundVariables = {
+export const GreyhoundVariables = {
   urn: "ppb:tbd:view:sport:4339",
   numberOfFilledCardsInCardGroup: 2,
   numberOfFilledCardsInView: 3,

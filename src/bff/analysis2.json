@@ -1,0 +1,210 @@
+[
+  {
+    "property": "numberOfCardsInAllCompetitionsView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInAllCompetitionsView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInAllMarketsView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInAllMarketsView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInCompetitionView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInCompetitionView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInEventView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInEventView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInGamingCategoryView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInGamingCategoryView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInGamingSegmentationView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInGamingSegmentationView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInGamingView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInGamingView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInGenericView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInGenericView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInImsPromotionView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInImsPromotionView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInNotFoundView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInNotFoundView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInPromotionsView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInPromotionsView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInRaceView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInRaceView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInSportView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInSportView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInAllCompetitionsView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInAllCompetitionsView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInAllMarketsView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInAllMarketsView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInCompetitionView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInCompetitionView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInEventView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInEventView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInGamingCategoryView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInGamingCategoryView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInGamingSegmentationView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInGamingSegmentationView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInGamingView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInGamingView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInGenericView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInGenericView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInImsPromotionView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInImsPromotionView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInNotFoundView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInNotFoundView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInPromotionsView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInPromotionsView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInRaceView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInRaceView",
+    "numberOfCardsRequested": 2
+  },
+  {
+    "property": "numberOfCardsInSportView",
+    "numberOfCardsRequested": 1
+  },
+  {
+    "property": "numberOfCardsInSportView",
+    "numberOfCardsRequested": 2
+  }
+]

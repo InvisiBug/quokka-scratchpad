@@ -1,6 +1,6 @@
 import { generateStandardCardOptions } from "../../../utils";
 
-export const testingCricketVariables = {
+export const CricketVariables = {
   urn: "ppb:tbd:view:sport:4",
   numberOfFilledCardsInCardGroup: 2,
   numberOfFilledCardsInView: 3,
