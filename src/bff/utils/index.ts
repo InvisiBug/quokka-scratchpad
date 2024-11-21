@@ -15,7 +15,7 @@ export const cardOptions = [
   // "numberOfCardsInImsPromotionView",
   // "numberOfCardsInNotFoundView",
   // "numberOfCardsInPromotionsView",
-  "numberOfCardsInRaceView",
+  // "numberOfCardsInRaceView",
   "numberOfCardsInSportView",
 ];
 

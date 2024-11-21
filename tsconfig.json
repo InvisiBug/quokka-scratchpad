@@ -13,5 +13,5 @@
     "require": ["tsconfig-paths/register"]
   },
   "include": [
-    "src/*",    ]
+    "src/*", "src/bff/index.ts",    ]
 }

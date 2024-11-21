@@ -1,21 +1,6 @@
 Adjusted Option,Number of Cards Requested,HomeContentLength,home75thPercentile,FootballContentLength,football75thPercentile,HorseRacingContentLength,Horse Racing 75thPercentile
-numberOfCardsInRaceView,1,9310,496,11170,450,11204,518
-numberOfCardsInRaceView,2,9310,461,11170,429,11204,468
-numberOfCardsInRaceView,3,9310,460,11170,429,11204,442
-numberOfCardsInRaceView,4,9310,454,11170,462,11204,421
-numberOfCardsInRaceView,5,9310,468,11170,427,11204,501
-numberOfCardsInRaceView,6,9310,429,10303,441,11204,628
-numberOfCardsInRaceView,7,9310,420,11170,532,11204,493
-numberOfCardsInRaceView,8,9310,408,11170,428,11204,465
-numberOfCardsInRaceView,9,9310,539,5817,451,11204,488
-numberOfCardsInRaceView,10,9310,434,11170,421,10303,458
-numberOfCardsInSportView,1,9310,488,11340,492,11374,524
-numberOfCardsInSportView,2,9310,419,16260,423,18357,513
-numberOfCardsInSportView,3,9310,436,16395,610,20370,599
-numberOfCardsInSportView,4,9310,409,16527,553,41145,559
-numberOfCardsInSportView,5,9310,438,31626,604,10303,523
-numberOfCardsInSportView,6,86,467,32378,612,56692,522
-numberOfCardsInSportView,7,9310,510,43983,579,68297,535
-numberOfCardsInSportView,8,9310,461,43983,542,68297,580
-numberOfCardsInSportView,9,9310,447,43983,598,68297,607
-numberOfCardsInSportView,10,9310,424,43983,600,68297,587
+numberOfCardsInSportView,5,7338,331,234,361,234,298
+numberOfCardsInSportView,5,7338,331,234,361,234,298
+numberOfCardsInSportView,5,7338,331,234,361,234,298
+numberOfCardsInSportView,5,7338,331,234,361,234,298
+numberOfCardsInSportView,5,7338,331,234,361,234,298
